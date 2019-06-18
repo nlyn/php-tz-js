@@ -1,6 +1,6 @@
 # php-tz-json
 
-Quickly get a JSON dump of all IANA timezones. Perfect for populating `<select>` elements.
+Quickly get a JS object dump of all IANA timezones. Perfect for populating `<select>` elements.
 
 The timezone information is taken directly from PHP's `DateTimeZone` class.
 
